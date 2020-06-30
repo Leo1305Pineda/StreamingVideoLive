@@ -1,0 +1,7 @@
+{
+  "name": "StramingVideoLive",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
